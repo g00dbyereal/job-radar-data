@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21",
+ "updated": "2026-11-22",
  "jobs": [
   {
    "id": "aca-import-office-serres",
@@ -57,6 +57,25 @@
    "source": "jobfind.gr",
    "title": "Υπάλληλος Γραμματειακής Υποστήριξης (Admin / reception)",
    "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/0251a1ca-7ff1-4112-b6f1-896adb5db61d/"
+  },
+  {
+   "id": "auslandsjob-insurance-remote-greece",
+   "active": true,
+   "company": "Large German insurance group (name not given)",
+   "firstSeen": "2026-11-22",
+   "kind": "Unknown",
+   "langs": "German (very good), English (good)",
+   "level": "Agent",
+   "location": "Remote, Greece",
+   "mode": "Remote",
+   "note": "Fully remote from Greece and the pay is on the higher side for agent roles (€1,450 fixed plus bonus). It's a front-line role, so a step down from supervisor, and the contract is listed as 'from 6 months', so ask about the contract type.",
+   "payMin": 1450,
+   "posted": "date not shown",
+   "salary": "€1,450 gross/month fixed, 14 salaries, up to 10% bonus",
+   "setup": "Fully remote",
+   "source": "auslandsjob.de",
+   "title": "Remote als Versicherungs-Kundenberater (m/w/d) aus Griechenland",
+   "url": "https://www.auslandsjob.de/jobs/kundenberater-remote-deutsche-versicherung-griechenland/"
   },
   {
    "id": "avedo-call-center-agent-deutsch-thess",
@@ -819,6 +838,25 @@
    "url": "https://www.randstad.gr/en/jobs/german-customer-service-representative-mf_thessaloniki_39007/"
   },
   {
+   "id": "randstad-german-roadside-cs-wfh-62989",
+   "active": true,
+   "company": "Randstad client (roadside assistance group)",
+   "firstSeen": "2026-11-22",
+   "kind": "Outsourcer",
+   "langs": "German (native level), English (comprehension)",
+   "level": "Agent",
+   "location": "Remote, Greece",
+   "mode": "Remote",
+   "note": "Work from home anywhere in Greece, permanent contract, and your native German is exactly what they want. The listing says €1,500 but the text says the pay range is shared at the interview, so confirm the number. Training is in Athens, so ask whether it can be done remotely.",
+   "payMin": 1500,
+   "posted": "2026-11-02",
+   "salary": "€1,500/month shown in the listing",
+   "setup": "Work from home",
+   "source": "randstad.gr",
+   "title": "Σύμβουλος εξυπηρέτησης πελατών στα γερμανικά (α/γ)",
+   "url": "https://www.randstad.gr/theseis-ergasias/symvoylos-eksypiretisis-pelaton-sta-germanika_ergasia-apo-to-spiti_62989/"
+  },
+  {
    "id": "randstad-german-travel-agent-remote",
    "active": true,
    "company": "Randstad client",
@@ -969,6 +1007,25 @@
    "source": "regiocom careers",
    "title": "Teamleiter im Bankensektor (m/w/d)",
    "url": "https://cc-jobs.regiocom.com/jobs/id/teamleiter-im-bankensektor-mwd"
+  },
+  {
+   "id": "regiocom-teamleiter-mobilfunk-thess",
+   "active": true,
+   "company": "regiocom Customer Care",
+   "firstSeen": "2026-11-22",
+   "kind": "Outsourcer",
+   "langs": "German native or C1",
+   "level": "Lead / Ops",
+   "location": "Thessaloniki",
+   "mode": "Thessaloniki",
+   "note": "A team-leader role you could step into straight away, with an open-ended contract and paid training. It's regiocom, so the same industry as TP, and it looks like an on-site call-center team, so check whether any home-office days are possible. They ask for German native/C1 and prior call-center team-leader experience, which you have.",
+   "payMin": null,
+   "posted": "2026-11-19",
+   "salary": "Fixed monthly salary + performance bonus (amount not listed)",
+   "setup": "Not stated",
+   "source": "freehire.me (regiocom)",
+   "title": "Teamleiter Mobilfunk (m/w/d)",
+   "url": "https://freehire.me/jobs/teamleiter-mobilfunk-m-w-d-karriereregiocom-apenh5dt"
   },
   {
    "id": "regiocom-vodafone-cs-serres",
