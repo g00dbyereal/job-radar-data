@@ -1,10 +1,11 @@
 {
+ "updated": "2026-11-25",
  "jobs": [
   {
+   "id": "aca-import-office-serres",
    "active": true,
    "company": "ACA Lighting",
    "firstSeen": "2026-11-18",
-   "id": "aca-import-office-serres",
    "kind": "In-house",
    "langs": "Greek, very good English",
    "level": "Specialist",
@@ -20,10 +21,10 @@
    "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/712f03d5-4579-4d5d-8a4a-75b88dc17573/"
   },
   {
+   "id": "aca-procurement-head-serres",
    "active": true,
    "company": "ACA Lighting Apostolidis Group",
    "firstSeen": "2026-11-19",
-   "id": "aca-procurement-head-serres",
    "kind": "In-house",
    "langs": "Good English",
    "level": "Lead / Ops",
@@ -39,10 +40,10 @@
    "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/ce13ee3b-cf14-4b61-8b13-e63ddb26ce3f/"
   },
   {
+   "id": "anan-reception-admin-serres",
    "active": true,
    "company": "ΚΑΑ «ΑΝΑΝΕΩΣΗ» rehabilitation centre",
    "firstSeen": "2026-11-19",
-   "id": "anan-reception-admin-serres",
    "kind": "In-house",
    "langs": "Greek, very good English",
    "level": "Specialist",
@@ -58,10 +59,10 @@
    "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/0251a1ca-7ff1-4112-b6f1-896adb5db61d/"
   },
   {
+   "id": "auslandsjob-insurance-remote-greece",
    "active": true,
    "company": "Large German insurance group (name not given)",
    "firstSeen": "2026-11-22",
-   "id": "auslandsjob-insurance-remote-greece",
    "kind": "Unknown",
    "langs": "German (very good), English (good)",
    "level": "Agent",
@@ -77,10 +78,10 @@
    "url": "https://www.auslandsjob.de/jobs/kundenberater-remote-deutsche-versicherung-griechenland/"
   },
   {
+   "id": "avedo-call-center-agent-deutsch-thess",
    "active": true,
    "company": "Avedo Hellas",
    "firstSeen": "2026-11-19",
-   "id": "avedo-call-center-agent-deutsch-thess",
    "kind": "Outsourcer",
    "langs": "Very good German",
    "level": "Agent",
@@ -96,10 +97,10 @@
    "url": "https://jobs.avedo.de/o/call-center-agent-german-thessaloniki-2237592"
   },
   {
+   "id": "avedo-customer-support-sales-thess",
    "active": true,
    "company": "Avedo Hellas",
    "firstSeen": "2026-11-19",
-   "id": "avedo-customer-support-sales-thess",
    "kind": "Outsourcer",
    "langs": "German B2+",
    "level": "Agent",
@@ -115,10 +116,10 @@
    "url": "https://jobs.avedo.de/o/customer-support-sales-thessaloniki-2567255"
   },
   {
+   "id": "avedo-kundenberater-direktbank-thess",
    "active": true,
    "company": "Avedo Hellas",
    "firstSeen": "2026-11-19",
-   "id": "avedo-kundenberater-direktbank-thess",
    "kind": "Outsourcer",
    "langs": "German C2",
    "level": "Agent",
@@ -134,10 +135,10 @@
    "url": "https://jobs.avedo.de/o/kundenberater-direktbank-thessaloniki-2720928"
   },
   {
+   "id": "avedo-kundenberater-premium-bank-thess",
    "active": true,
    "company": "Avedo Hellas",
    "firstSeen": "2026-11-19",
-   "id": "avedo-kundenberater-premium-bank-thess",
    "kind": "Outsourcer",
    "langs": "German C2, English B2",
    "level": "Agent",
@@ -153,10 +154,10 @@
    "url": "https://jobs.avedo.de/o/kundenberater-premium-bank-thessaloniki-2741691"
   },
   {
+   "id": "avedo-kundenberater-vwfs-thess",
    "active": true,
    "company": "Avedo Hellas",
    "firstSeen": "2026-11-19",
-   "id": "avedo-kundenberater-vwfs-thess",
    "kind": "Outsourcer",
    "langs": "German C2",
    "level": "Agent",
@@ -172,10 +173,10 @@
    "url": "https://jobs.avedo.de/o/kundenberater-volkswagen-financial-services-thessaloniki-2677937"
   },
   {
+   "id": "avedo-ld-specialist-thess",
    "active": true,
    "company": "Avedo Hellas",
    "firstSeen": "2026-11-19",
-   "id": "avedo-ld-specialist-thess",
    "kind": "Outsourcer",
    "langs": "German (ad in German)",
    "level": "Specialist",
@@ -191,10 +192,10 @@
    "url": "https://www.avedo.de/thessaloniki-connect/job/learning-amp-development-specialist-thessaloniki-2670417"
   },
   {
+   "id": "conduent-ops-manager-assistant",
    "active": true,
    "company": "Conduent",
    "firstSeen": "2026-11-18",
-   "id": "conduent-ops-manager-assistant",
    "kind": "Outsourcer",
    "langs": "Greek, German (B2), English a plus",
    "level": "Lead / Ops",
@@ -210,10 +211,10 @@
    "url": "https://militaryspouse.dejobs.org/thessaloniki-grc/thessaloniki-operations-manager-assistant/424D7F9D223842528B613CAC4D54646C/job"
   },
   {
+   "id": "conduent-teamleiter-thess",
    "active": true,
    "company": "Conduent",
    "firstSeen": "2026-11-18",
-   "id": "conduent-teamleiter-thess",
    "kind": "Outsourcer",
    "langs": "German",
    "level": "Lead / Ops",
@@ -229,10 +230,10 @@
    "url": "https://www.skywalker.gr/en/aggelia-ergasias/01jrwh6qtgm2w3n032671x73e9/teamleiter--m-w-d--hybrid-thessaloniki-in-vollzeit"
   },
   {
+   "id": "conduent-wfm-rta",
    "active": true,
    "company": "Conduent",
    "firstSeen": "2026-11-18",
-   "id": "conduent-wfm-rta",
    "kind": "Outsourcer",
    "langs": "German, English",
    "level": "Specialist",
@@ -248,10 +249,10 @@
    "url": "https://www.kariera.gr/jobs/administrative-or-secretarial-jobs/240553"
   },
   {
+   "id": "crossborder-german-cs-advisor-greece",
    "active": true,
    "company": "Cross Border Talents (recruiter)",
    "firstSeen": "2026-11-19",
-   "id": "crossborder-german-cs-advisor-greece",
    "kind": "Unknown",
    "langs": "Native or C1 German, English B2+",
    "level": "Agent",
@@ -267,10 +268,10 @@
    "url": "https://freehire.me/jobs/german-speaking-customer-service-advisor-greece-cross-border-talents-tklsnbrf"
   },
   {
+   "id": "eneba-cs-team-lead",
    "active": true,
    "company": "Eneba",
    "firstSeen": "2026-11-18",
-   "id": "eneba-cs-team-lead",
    "kind": "In-house",
    "langs": "English",
    "level": "Lead / Ops",
@@ -286,10 +287,10 @@
    "url": "https://www.remoterocketship.com/gb/company/eneba/jobs/customer-support-team-lead-europe-remote/"
   },
   {
+   "id": "foundever-german-healthcare-remote",
    "active": true,
    "company": "Foundever",
    "firstSeen": "2026-11-18",
-   "id": "foundever-german-healthcare-remote",
    "kind": "Outsourcer",
    "langs": "German (C1+), English",
    "level": "Agent",
@@ -305,10 +306,10 @@
    "url": "https://freehire.me/jobs/german-customer-support-specialist-for-a-healthcare-innovation-company-remote-in-greece-foundever-na3rtv7d"
   },
   {
+   "id": "ignite-german-support-remote",
    "active": true,
    "company": "Ignite",
    "firstSeen": "2026-11-18",
-   "id": "ignite-german-support-remote",
    "kind": "Unknown",
    "langs": "German, English",
    "level": "Agent",
@@ -324,10 +325,10 @@
    "url": "https://www.resumebuilder.careers/job/ignite-german-speaking-customer-support-representative-remote-in-greece"
   },
   {
+   "id": "interaction-brokers-admin-serres",
    "active": true,
    "company": "Interaction Brokers",
    "firstSeen": "2026-11-19",
-   "id": "interaction-brokers-admin-serres",
    "kind": "In-house",
    "langs": "Not stated",
    "level": "Specialist",
@@ -343,10 +344,10 @@
    "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/5f1d4c6f-bb5f-48f4-b8f1-a649a898a4fb/"
   },
   {
+   "id": "jobfind-aktina-sales-account-mgr-german-thess",
    "active": true,
    "company": "AKTINA CDS Greece",
    "firstSeen": "2026-11-19",
-   "id": "jobfind-aktina-sales-account-mgr-german-thess",
    "kind": "In-house",
    "langs": "Excellent German (spoken and written), good English",
    "level": "Specialist",
@@ -362,10 +363,10 @@
    "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/a141fc01-9f79-4dfe-83fb-0425b0acd0fe/"
   },
   {
+   "id": "jobfind-b2b-sales-german-wfh",
    "active": true,
    "company": "Employer not named (agency for a German IT-services company)",
    "firstSeen": "2026-11-19",
-   "id": "jobfind-b2b-sales-german-wfh",
    "kind": "Unknown",
    "langs": "Excellent German, very good English",
    "level": "Specialist",
@@ -381,10 +382,10 @@
    "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/85a64e1e-27e3-4c76-92c2-dce30e36c21d/"
   },
   {
+   "id": "jobfind-deutschsprachige-kundenberater-thess",
    "active": true,
    "company": "Employer not named (telecom support)",
    "firstSeen": "2026-11-19",
-   "id": "jobfind-deutschsprachige-kundenberater-thess",
    "kind": "Unknown",
    "langs": "German C2, English B2–C1",
    "level": "Agent",
@@ -400,10 +401,10 @@
    "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/c30d5f0a-a703-43d8-88ea-982919ae9920/"
   },
   {
+   "id": "jobfind-dispatch-invoicing-office-serres",
    "active": true,
    "company": "Employer not named (trading & distribution company)",
    "firstSeen": "2026-11-23",
-   "id": "jobfind-dispatch-invoicing-office-serres",
    "kind": "In-house",
    "langs": "Greek, good English",
    "level": "Specialist",
@@ -419,10 +420,10 @@
    "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/56497bac-5660-41cb-8d84-6b65567f8608/"
   },
   {
+   "id": "jobfind-export-order-clerk-german-thess",
    "active": true,
    "company": "Employer not named (clothing exporter)",
    "firstSeen": "2026-11-19",
-   "id": "jobfind-export-order-clerk-german-thess",
    "kind": "In-house",
    "langs": "Excellent German, excellent English",
    "level": "Specialist",
@@ -438,10 +439,10 @@
    "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/a140df9b-fbca-4f7f-b5a7-1363d37ea076/"
   },
   {
+   "id": "jobfind-export-sales-thermi",
    "active": true,
    "company": "Employer not named",
    "firstSeen": "2026-11-18",
-   "id": "jobfind-export-sales-thermi",
    "kind": "In-house",
    "langs": "Check the ad",
    "level": "Specialist",
@@ -457,10 +458,10 @@
    "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/82f9c0bb-1bba-4d56-86f1-d4556fbd1112/"
   },
   {
+   "id": "jobfind-german-csa-remote",
    "active": true,
    "company": "Employer not named",
    "firstSeen": "2026-11-18",
-   "id": "jobfind-german-csa-remote",
    "kind": "Unknown",
    "langs": "German",
    "level": "Agent",
@@ -476,10 +477,10 @@
    "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/92bba0b7-797e-4ade-aa36-3f5fa4a799bf/"
   },
   {
+   "id": "jobfind-german-telecom-csr-thess-hybrid",
    "active": true,
    "company": "Employer not named (multinational telecom)",
    "firstSeen": "2026-11-19",
-   "id": "jobfind-german-telecom-csr-thess-hybrid",
    "kind": "Unknown",
    "langs": "Native-level German",
    "level": "Agent",
@@ -495,10 +496,10 @@
    "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/2db3b724-b562-4868-ac25-65299bb90d0f/"
   },
   {
+   "id": "jobfind-inside-sales-electrical-serres",
    "active": true,
    "company": "Employer not named (large trading company)",
    "firstSeen": "2026-11-24",
-   "id": "jobfind-inside-sales-electrical-serres",
    "kind": "In-house",
    "langs": "Greek (no other language listed)",
    "level": "Specialist",
@@ -514,10 +515,10 @@
    "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/b669b8fd-ee7a-4616-803e-c35141153131/"
   },
   {
+   "id": "jobfind-intl-client-mgmt-oraiokastro",
    "active": true,
    "company": "Employer not named",
    "firstSeen": "2026-11-18",
-   "id": "jobfind-intl-client-mgmt-oraiokastro",
    "kind": "In-house",
    "langs": "Check the ad",
    "level": "Specialist",
@@ -533,10 +534,10 @@
    "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/9419ec4f-d71a-4f7f-80d1-cc9eb2fb0e01/"
   },
   {
+   "id": "jobfind-irepair-customer-service-serres",
    "active": true,
    "company": "iRepair",
    "firstSeen": "2026-11-19",
-   "id": "jobfind-irepair-customer-service-serres",
    "kind": "In-house",
    "langs": "Greek, English (excellent)",
    "level": "Agent",
@@ -552,10 +553,10 @@
    "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/e0b5dfd9-efdc-44bb-b09f-78c98ee4ecaf/"
   },
   {
+   "id": "jobfind-kundenberater-thess",
    "active": true,
    "company": "Employer not named",
    "firstSeen": "2026-11-18",
-   "id": "jobfind-kundenberater-thess",
    "kind": "Unknown",
    "langs": "German",
    "level": "Agent",
@@ -571,10 +572,10 @@
    "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/235434eb-f612-482e-8a4e-7934d4fe4d92/"
   },
   {
+   "id": "jobfind-kundenberater-wfh",
    "active": true,
    "company": "Employer not named",
    "firstSeen": "2026-11-18",
-   "id": "jobfind-kundenberater-wfh",
    "kind": "Unknown",
    "langs": "German",
    "level": "Agent",
@@ -590,10 +591,10 @@
    "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/cad9e521-a12a-4571-95c9-5dda4c691cb3/"
   },
   {
+   "id": "jobfind-logistics-associate-office-serres",
    "active": true,
    "company": "Employer not named",
    "firstSeen": "2026-11-19",
-   "id": "jobfind-logistics-associate-office-serres",
    "kind": "In-house",
    "langs": "Not stated",
    "level": "Specialist",
@@ -609,10 +610,10 @@
    "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/67fd1d21-fa53-4232-b2a9-4864aadbe07b/"
   },
   {
+   "id": "jobfind-multilingual-support-wfh",
    "active": true,
    "company": "Employer not named",
    "firstSeen": "2026-11-18",
-   "id": "jobfind-multilingual-support-wfh",
    "kind": "Unknown",
    "langs": "German",
    "level": "Agent",
@@ -628,10 +629,10 @@
    "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/da6e4d2e-4a3d-4550-83d5-e10d99b922a6/"
   },
   {
+   "id": "jobfind-office-furniture-showroom-serres",
    "active": true,
    "company": "Employer not named (furniture factory)",
    "firstSeen": "2026-11-19",
-   "id": "jobfind-office-furniture-showroom-serres",
    "kind": "In-house",
    "langs": "Not stated",
    "level": "Specialist",
@@ -647,10 +648,10 @@
    "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/8727b3c6-4e76-41ee-aadb-582eb649d3f0/"
   },
   {
+   "id": "jobfind-office-german-thess",
    "active": true,
    "company": "Employer not named",
    "firstSeen": "2026-11-19",
-   "id": "jobfind-office-german-thess",
    "kind": "In-house",
    "langs": "Excellent German, English a plus",
    "level": "Specialist",
@@ -666,10 +667,10 @@
    "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/616cf316-484d-4eb2-b153-910a953e038a/"
   },
   {
+   "id": "jobfind-planettc-ops-call-center-thess",
    "active": true,
    "company": "Planet-TC",
    "firstSeen": "2026-11-19",
-   "id": "jobfind-planettc-ops-call-center-thess",
    "kind": "In-house",
    "langs": "Very good German, MS Office",
    "level": "Agent",
@@ -685,10 +686,10 @@
    "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/b57d5528-6f84-416b-80a2-4174faecd5cc/"
   },
   {
+   "id": "jobfind-vodafone-business-advisors-adecco-serres",
    "active": true,
    "company": "Adecco HR (for a Vodafone client)",
    "firstSeen": "2026-11-19",
-   "id": "jobfind-vodafone-business-advisors-adecco-serres",
    "kind": "Unknown",
    "langs": "Greek, English (good)",
    "level": "Specialist",
@@ -704,10 +705,10 @@
    "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/4d785c75-c13d-4e20-81e8-b41ad66a9b39/"
   },
   {
+   "id": "karag-marketing-serres",
    "active": true,
    "company": "KARAG",
    "firstSeen": "2026-11-19",
-   "id": "karag-marketing-serres",
    "kind": "In-house",
    "langs": "Not stated",
    "level": "Specialist",
@@ -723,10 +724,10 @@
    "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/995ff630-1749-4fce-82de-9ab3f28332f1/"
   },
   {
+   "id": "krikri-hr-business-partner-serres",
    "active": true,
    "company": "Kri Kri",
    "firstSeen": "2026-11-18",
-   "id": "krikri-hr-business-partner-serres",
    "kind": "In-house",
    "langs": "Greek, very good English",
    "level": "Lead / Ops",
@@ -742,10 +743,10 @@
    "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/c6e69152-e39e-4c74-87da-fd6afb42128e/"
   },
   {
+   "id": "krikri-supply-planner-serres",
    "active": true,
    "company": "Kri Kri",
    "firstSeen": "2026-11-19",
-   "id": "krikri-supply-planner-serres",
    "kind": "In-house",
    "langs": "Greek, very good English",
    "level": "Specialist",
@@ -761,10 +762,10 @@
    "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/1ec038a5-1e19-4535-b250-f464ae0b681a/"
   },
   {
+   "id": "krikri-talent-acquisition-serres",
    "active": true,
    "company": "Kri Kri",
    "firstSeen": "2026-11-18",
-   "id": "krikri-talent-acquisition-serres",
    "kind": "In-house",
    "langs": "Greek, English",
    "level": "Specialist",
@@ -780,10 +781,10 @@
    "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/bdeaed90-5851-4ec9-82be-5d6733e80fef/"
   },
   {
+   "id": "randstad-german-cc-specialist-thess",
    "active": true,
    "company": "Randstad client",
    "firstSeen": "2026-11-18",
-   "id": "randstad-german-cc-specialist-thess",
    "kind": "Unknown",
    "langs": "German",
    "level": "Agent",
@@ -799,10 +800,10 @@
    "url": "https://www.randstad.gr/en/jobs/german-customer-care-specialist-mf_thessaloniki_48608/"
   },
   {
+   "id": "randstad-german-content-moderator-thess",
    "active": true,
    "company": "Randstad client",
    "firstSeen": "2026-11-19",
-   "id": "randstad-german-content-moderator-thess",
    "kind": "Unknown",
    "langs": "Fluent German, advanced English",
    "level": "Agent",
@@ -818,10 +819,10 @@
    "url": "https://www.randstad.gr/en/jobs/german-content-moderator-mf_thessaloniki_50098/"
   },
   {
+   "id": "randstad-german-cs-wfh-38702",
    "active": true,
    "company": "Randstad client",
    "firstSeen": "2026-11-19",
-   "id": "randstad-german-cs-wfh-38702",
    "kind": "Unknown",
    "langs": "Excellent German, adequate English",
    "level": "Agent",
@@ -837,10 +838,10 @@
    "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/a0c514a2-54a5-4bc4-b8b7-ffd581c507af/"
   },
   {
+   "id": "randstad-german-csa-remote",
    "active": true,
    "company": "Randstad client",
    "firstSeen": "2026-11-18",
-   "id": "randstad-german-csa-remote",
    "kind": "Unknown",
    "langs": "German",
    "level": "Agent",
@@ -856,10 +857,10 @@
    "url": "https://www.randstad.gr/en/jobs/german-customer-service-agent-mf-remote_remote-all-over-greece_38634/"
   },
   {
+   "id": "randstad-german-csr-thess",
    "active": true,
    "company": "Randstad client (new company in Thessaloniki)",
    "firstSeen": "2026-11-18",
-   "id": "randstad-german-csr-thess",
    "kind": "Unknown",
    "langs": "German",
    "level": "Agent",
@@ -875,10 +876,10 @@
    "url": "https://www.randstad.gr/en/jobs/german-customer-service-representative-mf_thessaloniki_39007/"
   },
   {
+   "id": "randstad-german-kundenberater-home-office-37898",
    "active": true,
    "company": "Randstad client",
    "firstSeen": "2026-11-24",
-   "id": "randstad-german-kundenberater-home-office-37898",
    "kind": "Unknown",
    "langs": "German C2, English B2–C1",
    "level": "Agent",
@@ -894,10 +895,10 @@
    "url": "https://www.randstad.gr/en/jobs/deutschsprachige-kundenberater-mw_home-office-in-griechenland_37898/"
   },
   {
+   "id": "randstad-german-roadside-cs-wfh-62989",
    "active": true,
    "company": "Randstad client (roadside assistance group)",
    "firstSeen": "2026-11-22",
-   "id": "randstad-german-roadside-cs-wfh-62989",
    "kind": "Outsourcer",
    "langs": "German (native level), English (comprehension)",
    "level": "Agent",
@@ -913,10 +914,10 @@
    "url": "https://www.randstad.gr/theseis-ergasias/symvoylos-eksypiretisis-pelaton-sta-germanika_ergasia-apo-to-spiti_62989/"
   },
   {
+   "id": "randstad-german-travel-agent-remote",
    "active": true,
    "company": "Randstad client",
    "firstSeen": "2026-11-18",
-   "id": "randstad-german-travel-agent-remote",
    "kind": "Unknown",
    "langs": "German",
    "level": "Agent",
@@ -932,10 +933,10 @@
    "url": "https://www.randstad.gr/en/jobs/german-speaking-travel-agent-mf_remote-all-over-greece_39178/"
   },
   {
+   "id": "randstad-german-travel-remote",
    "active": true,
    "company": "Randstad client",
    "firstSeen": "2026-11-18",
-   "id": "randstad-german-travel-remote",
    "kind": "Unknown",
    "langs": "German",
    "level": "Agent",
@@ -951,10 +952,10 @@
    "url": "https://www.randstad.gr/en/jobs/german-customer-service-advisor-travel-tourism-mf_remote_38637/"
   },
   {
+   "id": "randstad-german-vip-am",
    "active": true,
    "company": "Randstad client (iGaming)",
    "firstSeen": "2026-11-18",
-   "id": "randstad-german-vip-am",
    "kind": "Unknown",
    "langs": "German, English",
    "level": "Specialist",
@@ -970,10 +971,10 @@
    "url": "https://www.randstad.gr/en/jobs/german-vip-account-manager-mf_remote_61473/"
   },
   {
+   "id": "randstad-multilingual-care-agent-remote-46872",
    "active": true,
    "company": "Randstad client",
    "firstSeen": "2026-11-24",
-   "id": "randstad-multilingual-care-agent-remote-46872",
    "kind": "Unknown",
    "langs": "German (or another listed language) + good English",
    "level": "Agent",
@@ -989,10 +990,10 @@
    "url": "https://www.randstad.gr/en/jobs/multilingual-customer-care-agent-mf_remoteon-sitehybrid_46872/"
   },
   {
+   "id": "randstad-qa-analyst-german-spanish-remote-39211",
    "active": true,
    "company": "Randstad client (new multinational, Greece)",
    "firstSeen": "2026-11-23",
-   "id": "randstad-qa-analyst-german-spanish-remote-39211",
    "kind": "Unknown",
    "langs": "German (native) or Spanish, fluent English",
    "level": "Specialist",
@@ -1008,10 +1009,10 @@
    "url": "https://www.randstad.gr/en/jobs/quality-assurance-analyst-with-german-or-spanish-mf_athens_39211/"
   },
   {
+   "id": "randstad-team-leader-german-spanish-remote-38618",
    "active": true,
    "company": "Randstad client (multilingual contact center, stays marketplace)",
    "firstSeen": "2026-11-23",
-   "id": "randstad-team-leader-german-spanish-remote-38618",
    "kind": "Outsourcer",
    "langs": "German (native) or Spanish, fluent English",
    "level": "Lead / Ops",
@@ -1027,10 +1028,10 @@
    "url": "https://www.randstad.gr/en/jobs/team-leader-with-german-or-spanish-mf_athens_38618/"
   },
   {
+   "id": "regiocom-kundenberater-banking-thess",
    "active": true,
    "company": "regiocom Customer Care SE",
    "firstSeen": "2026-11-19",
-   "id": "regiocom-kundenberater-banking-thess",
    "kind": "Outsourcer",
    "langs": "German C1",
    "level": "Agent",
@@ -1046,10 +1047,10 @@
    "url": "https://cc-jobs.regiocom.com/jobs/id/kundenberater-im-bereich-banking-mwd-1"
   },
   {
+   "id": "regiocom-kundenberater-mobilfunk-thess",
    "active": true,
    "company": "regiocom Customer Care SE",
    "firstSeen": "2026-11-23",
-   "id": "regiocom-kundenberater-mobilfunk-thess",
    "kind": "Outsourcer",
    "langs": "German C1",
    "level": "Agent",
@@ -1065,10 +1066,10 @@
    "url": "https://cc-jobs.regiocom.com/jobs/id/kundenberater-im-bereich-mobilfunk-mwd"
   },
   {
+   "id": "regiocom-manager-operations",
    "active": true,
    "company": "regiocom Customer Care SE – Griechenland",
    "firstSeen": "2026-11-18",
-   "id": "regiocom-manager-operations",
    "kind": "Outsourcer",
    "langs": "German",
    "level": "Lead / Ops",
@@ -1084,10 +1085,10 @@
    "url": "https://gr.linkedin.com/jobs/customer-service-manager-jobs"
   },
   {
+   "id": "regiocom-personalentwickler-thess",
    "active": true,
    "company": "regiocom Customer Care SE",
    "firstSeen": "2026-11-19",
-   "id": "regiocom-personalentwickler-thess",
    "kind": "Outsourcer",
    "langs": "German C2 (Greek welcome)",
    "level": "Specialist",
@@ -1103,10 +1104,10 @@
    "url": "https://cc-jobs.regiocom.com/jobs/id/personalentwickler-mwd"
   },
   {
+   "id": "regiocom-steuerer-thess",
    "active": false,
    "company": "regiocom Customer Care SE",
    "firstSeen": "2026-11-19",
-   "id": "regiocom-steuerer-thess",
    "kind": "Outsourcer",
    "langs": "Very good German",
    "level": "Specialist",
@@ -1122,10 +1123,10 @@
    "url": "https://cc-jobs.regiocom.com/jobs/id/steuerer-mwd"
   },
   {
+   "id": "regiocom-teamleiter-banking-thess",
    "active": true,
    "company": "regiocom Customer Care SE",
    "firstSeen": "2026-11-19",
-   "id": "regiocom-teamleiter-banking-thess",
    "kind": "Outsourcer",
    "langs": "German (native or C1)",
    "level": "Lead / Ops",
@@ -1141,10 +1142,10 @@
    "url": "https://cc-jobs.regiocom.com/jobs/id/teamleiter-im-bankensektor-mwd"
   },
   {
+   "id": "regiocom-teamleiter-mobilfunk-thess",
    "active": true,
    "company": "regiocom Customer Care",
    "firstSeen": "2026-11-22",
-   "id": "regiocom-teamleiter-mobilfunk-thess",
    "kind": "Outsourcer",
    "langs": "German native or C1",
    "level": "Lead / Ops",
@@ -1160,10 +1161,10 @@
    "url": "https://freehire.me/jobs/teamleiter-mobilfunk-m-w-d-karriereregiocom-apenh5dt"
   },
   {
+   "id": "regiocom-vodafone-cs-serres",
    "active": true,
    "company": "regiocom Customer Care SE",
    "firstSeen": "2026-11-19",
-   "id": "regiocom-vodafone-cs-serres",
    "kind": "Outsourcer",
    "langs": "German C1",
    "level": "Agent",
@@ -1179,10 +1180,10 @@
    "url": "https://cc-jobs.regiocom.com/jobs/id/kundenservicemitarbeiter-fuer-vodafone-mwd"
   },
   {
+   "id": "rr-mwdn-customer-success-manager-greece-remote",
    "active": true,
    "company": "MWDN",
    "firstSeen": "2026-11-23",
-   "id": "rr-mwdn-customer-success-manager-greece-remote",
    "kind": "Unknown",
    "langs": "English (C1 preferred)",
    "level": "Specialist",
@@ -1198,10 +1199,48 @@
    "url": "https://www.remoterocketship.com/publicjobs/company/mwdn/jobs/customer-success-manager-greece-remote/"
   },
   {
+   "id": "rr-mwdn-customer-support-manager-greece-remote",
+   "active": true,
+   "company": "MWDN",
+   "firstSeen": "2026-11-25",
+   "kind": "Unknown",
+   "langs": "English (C1 preferred)",
+   "level": "Specialist",
+   "location": "Remote, Greece",
+   "mode": "Remote",
+   "note": "Despite the title this is a hands-on customer onboarding and support role for a B2B software product, in English only. It asks for 3+ years in SaaS customer success or support, and the benefits describe independent-contractor status rather than employment, so check the contract and pay before getting excited.",
+   "payMin": null,
+   "posted": "2026-11-17",
+   "salary": "Pay not listed",
+   "setup": "Fully remote (independent contractor)",
+   "source": "remoterocketship.com",
+   "title": "Customer Support Manager",
+   "url": "https://www.remoterocketship.com/publicjobs/company/mwdn/jobs/customer-support-manager-greece-remote/"
+  },
+  {
+   "id": "rr-workster-german-travel-support-agent-greece-remote",
+   "active": true,
+   "company": "Workster (agency)",
+   "firstSeen": "2026-11-25",
+   "kind": "Unknown",
+   "langs": "German (native/fluent), English B2",
+   "level": "Agent",
+   "location": "Remote, Greece",
+   "mode": "Remote",
+   "note": "Front-line support for hotel and accommodation partners of a travel platform, working from home in Greece. It is a step down from your supervisor level and involves rotating morning, afternoon and weekend shifts, and the pay is not listed, so only worth a look if you want a calmer remote role.",
+   "payMin": null,
+   "posted": "~2026-11-23",
+   "salary": "Pay not listed",
+   "setup": "Fully remote",
+   "source": "remoterocketship.com",
+   "title": "German Travel Support Agent",
+   "url": "https://www.remoterocketship.com/publicjobs/company/workster-jobs/jobs/german-travel-support-agent-greece-remote/"
+  },
+  {
+   "id": "speakit-german-team-leader",
    "active": true,
    "company": "Speakit (recruiter)",
    "firstSeen": "2026-11-18",
-   "id": "speakit-german-team-leader",
    "kind": "Unknown",
    "langs": "German, basic English",
    "level": "Lead / Ops",
@@ -1217,10 +1256,10 @@
    "url": "https://www.speakitjobs.com/job/german-customer-support-team-leader-in-greece"
   },
   {
+   "id": "sportsplay-office-accounting-serres",
    "active": true,
    "company": "Sports & Play",
    "firstSeen": "2026-11-19",
-   "id": "sportsplay-office-accounting-serres",
    "kind": "In-house",
    "langs": "Not stated",
    "level": "Specialist",
@@ -1236,10 +1275,10 @@
    "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/49c01f5e-48af-4c86-b33d-e51abfb15039/"
   },
   {
+   "id": "transcom-homeoffice-energie",
    "active": true,
    "company": "Transcom",
    "firstSeen": "2026-11-19",
-   "id": "transcom-homeoffice-energie",
    "kind": "Outsourcer",
    "langs": "German",
    "level": "Agent",
@@ -1255,10 +1294,10 @@
    "url": "https://careers.transcom.com/job-openings/home-office-kundenberater-call-center-agent-im-bereich-energiedienstleistung/"
   },
   {
+   "id": "vodafone-partner-soho-am-serres",
    "active": true,
    "company": "Vodafone partner",
    "firstSeen": "2026-11-19",
-   "id": "vodafone-partner-soho-am-serres",
    "kind": "Unknown",
    "langs": "Greek",
    "level": "Specialist",
@@ -1273,6 +1312,5 @@
    "title": "SoHo Account Manager (Business Advisor)",
    "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/b41e6dc6-ba97-409b-895a-9926b4dd10d5/"
   }
- ],
- "updated": "2026-11-24"
+ ]
 }
