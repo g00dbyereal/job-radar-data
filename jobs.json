@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "jobs": [
   {
    "active": true,
@@ -345,6 +345,25 @@
   },
   {
    "active": true,
+   "company": "ACA Lighting Apostolidis Group",
+   "firstSeen": "2026-11-27",
+   "kind": "In-house",
+   "langs": "Greek; German/English not required in the ad",
+   "level": "Specialist",
+   "location": "Serres Industrial Park",
+   "mode": "Serres",
+   "note": "A real in-house customer-service/order desk at a lighting manufacturer that exports to 36 countries, so your German and English could be a plus even though the ad doesn't ask for them. Be aware the pay is low compared with your supervisor role, so it only makes sense if staying in Serres matters most.",
+   "payMin": 920,
+   "posted": "2026-11-26",
+   "salary": "€920–1,100 gross/month",
+   "setup": "Office, Mon–Fri",
+   "source": "jobfind.gr",
+   "title": "Εξυπηρέτηση Πελατών - Παραγγελιοληψία - Τιμολόγηση (Customer service, order entry & invoicing)",
+   "url": "https://www.jobfind.gr/JobAd/View/GR/Theseis_Ergasias/2fd20717-6636-457f-a48c-0497b2ede739/",
+   "id": "jobfind-aca-customer-service-orders-serres"
+  },
+  {
+   "active": true,
    "company": "AKTINA CDS Greece",
    "firstSeen": "2026-11-19",
    "kind": "In-house",
@@ -591,7 +610,7 @@
    "id": "jobfind-kundenberater-wfh"
   },
   {
-   "active": true,
+   "active": false,
    "company": "Employer not named",
    "firstSeen": "2026-11-19",
    "kind": "In-house",
